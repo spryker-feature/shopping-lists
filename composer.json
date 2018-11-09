@@ -1,0 +1,25 @@
+{
+  "name": "spryker-feature/shopping-lists",
+  "description": "Shopping Lists [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker-feature/company-account": "~2018.11.0",
+    "spryker-feature/customer-account-management": "~2018.11.0",
+    "spryker-feature/persistent-cart": "~2018.11.0",
+    "spryker-feature/prices": "~2018.11.0",
+    "spryker-feature/product": "~2018.11.0",
+    "spryker-feature/spryker-core": "~2018.11.0",
+    "spryker-shop/cart-to-shopping-list-widget": "^0.4.7",
+    "spryker-shop/shopping-list-note-widget": "^1.1.0",
+    "spryker-shop/shopping-list-page": "^0.5.7",
+    "spryker-shop/shopping-list-widget": "^0.3.10",
+    "spryker/shopping-list": "^2.4.1",
+    "spryker/shopping-list-data-import": "^0.1.0",
+    "spryker/shopping-list-note": "^1.0.1",
+    "spryker/shopping-list-session": "^1.0.2",
+    "spryker/shopping-list-storage": "^1.0.2"
+  }
+}
