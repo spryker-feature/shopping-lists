@@ -12,7 +12,7 @@
     "spryker-feature/prices": "^201902.0",
     "spryker-feature/product": "^201902.0",
     "spryker-feature/spryker-core": "^201902.0",
-    "spryker-shop/cart-to-shopping-list-widget": "^0.4.9",
+    "spryker-shop/cart-to-shopping-list-widget": "^0.4.8",
     "spryker-shop/shopping-list-note-widget": "^1.1.0",
     "spryker-shop/shopping-list-page": "^0.5.13",
     "spryker-shop/shopping-list-widget": "^0.4.2",
