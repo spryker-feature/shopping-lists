@@ -21,5 +21,10 @@
     "spryker/shopping-list-note": "^1.0.1",
     "spryker/shopping-list-session": "^1.0.2",
     "spryker/shopping-list-storage": "^1.1.0"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "201902.x-dev"
+    }
   }
 }
