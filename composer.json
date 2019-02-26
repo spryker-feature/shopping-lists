@@ -7,25 +7,25 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-feature/company-account": "^201902.0",
-    "spryker-feature/customer-account-management": "^201902.0",
-    "spryker-feature/persistent-cart": "^201902.0",
-    "spryker-feature/prices": "^201902.0",
-    "spryker-feature/product": "^201902.0",
-    "spryker-feature/spryker-core": "^201902.0",
-    "spryker-shop/cart-to-shopping-list-widget": "^0.4.8",
+    "spryker-feature/company-account": "^201903.0",
+    "spryker-feature/customer-account-management": "^201903.0",
+    "spryker-feature/persistent-cart": "^201903.0",
+    "spryker-feature/prices": "^201903.0",
+    "spryker-feature/product": "^201903.0",
+    "spryker-feature/spryker-core": "^201903.0",
+    "spryker-shop/cart-to-shopping-list-widget": "^0.4.9",
     "spryker-shop/shopping-list-note-widget": "^1.1.0",
     "spryker-shop/shopping-list-page": "^0.5.16",
     "spryker-shop/shopping-list-widget": "^0.4.2",
     "spryker/shopping-list": "^2.6.0",
-    "spryker/shopping-list-data-import": "^0.1.0",
+    "spryker/shopping-list-data-import": "^0.1.1",
     "spryker/shopping-list-note": "^1.0.1",
     "spryker/shopping-list-session": "^1.1.0",
-    "spryker/shopping-list-storage": "^1.1.0"
+    "spryker/shopping-list-storage": "^1.2.0"
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "201902.x-dev"
+      "dev-master": "201903.x-dev"
     }
   }
 }
