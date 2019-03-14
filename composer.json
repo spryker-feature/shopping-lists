@@ -15,7 +15,7 @@
     "spryker-feature/spryker-core": "^201903.0",
     "spryker-shop/cart-to-shopping-list-widget": "^0.4.8",
     "spryker-shop/shopping-list-note-widget": "^1.1.0",
-    "spryker-shop/shopping-list-page": "^0.6.1",
+    "spryker-shop/shopping-list-page": "^0.6.2",
     "spryker-shop/shopping-list-widget": "^0.4.3",
     "spryker/shopping-list": "^2.6.1",
     "spryker/shopping-list-data-import": "^0.1.0",
