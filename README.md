@@ -1,6 +1,6 @@
 # Spryker Feature: Shopping Lists
 
-Ability to create and maintain multiple shopping lists for future purchases. A shopping list can be shared with other customers from user's organization
+The Shopping Lists feature allows customers to create and share multiple lists of products between company business units or single users.Shopping lists can be shared between users with different sets of permissions.
 
 ## Installation
 
