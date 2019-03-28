@@ -7,12 +7,12 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-feature/company-account": "^201903.0",
-    "spryker-feature/customer-account-management": "^201903.0",
-    "spryker-feature/persistent-cart": "^201903.0",
-    "spryker-feature/prices": "^201903.0",
-    "spryker-feature/product": "^201903.0",
-    "spryker-feature/spryker-core": "^201903.0",
+    "spryker-feature/company-account": "^201906.0",
+    "spryker-feature/customer-account-management": "^201906.0",
+    "spryker-feature/persistent-cart": "^201906.0",
+    "spryker-feature/prices": "^201906.0",
+    "spryker-feature/product": "^201906.0",
+    "spryker-feature/spryker-core": "^201906.0",
     "spryker-shop/cart-to-shopping-list-widget": "^0.4.8",
     "spryker-shop/shopping-list-note-widget": "^1.1.0",
     "spryker-shop/shopping-list-page": "^0.6.4",
@@ -25,7 +25,7 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "201903.x-dev"
+      "dev-master": "201906.x-dev"
     }
   }
 }
