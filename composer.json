@@ -15,7 +15,7 @@
     "spryker/shopping-list-data-import": "^0.1.0",
     "spryker/shopping-list-note": "^1.0.1",
     "spryker/shopping-list-session": "^1.1.0",
-    "spryker/shopping-list-storage": "^1.1.0"
+    "spryker/shopping-list-storage": "^1.4.0"
   },
   "extra": {
     "branch-alias": {
