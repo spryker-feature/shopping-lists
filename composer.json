@@ -7,7 +7,6 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.2",
-    "spryker-shop/cart-to-shopping-list-widget": "^0.5.0",
     "spryker-shop/shopping-list-note-widget": "^1.1.0",
     "spryker-shop/shopping-list-page": "^1.0.0",
     "spryker-shop/shopping-list-widget": "^1.0.0",
