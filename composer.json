@@ -7,12 +7,6 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-feature/company-account": "^201903.0",
-    "spryker-feature/customer-account-management": "^201903.0",
-    "spryker-feature/persistent-cart": "^201903.0",
-    "spryker-feature/prices": "^201903.0",
-    "spryker-feature/product": "^201903.0",
-    "spryker-feature/spryker-core": "^201903.0",
     "spryker-shop/cart-to-shopping-list-widget": "^0.4.8",
     "spryker-shop/shopping-list-note-widget": "^1.1.0",
     "spryker-shop/shopping-list-page": "^0.6.2",
@@ -27,5 +21,13 @@
     "branch-alias": {
       "dev-master": "201903.x-dev"
     }
+  },
+  "suggest": {
+    "spryker-feature/company-account": "Recommended feature dependency.",
+    "spryker-feature/customer-account-management": "Recommended feature dependency.",
+    "spryker-feature/persistent-cart": "Recommended feature dependency.",
+    "spryker-feature/prices": "Recommended feature dependency.",
+    "spryker-feature/product": "Recommended feature dependency.",
+    "spryker-feature/spryker-core": "Recommended feature dependency."
   }
 }
