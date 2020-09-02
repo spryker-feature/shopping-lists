@@ -20,6 +20,6 @@ If you don't include the feature dependencies, make sure you use the respective 
 
 ## Optional modules
 - [Shop.ShoppingListPageExtension](https://github.com/spryker-shop/shopping-list-page-extension) (Extension)
-- [ShoppingListProductOptionConnector ^1.1.0](https://github.com/spryker/shopping-list-product-option-connector) (Connector)
+- [ShoppingListProductOptionConnector ^1.4.0](https://github.com/spryker/shopping-list-product-option-connector) (Connector)
 - [ShoppingListSessionExtension](https://github.com/spryker/shopping-list-session-extension) (Extension)
 - [ShoppingListsRestApi ^1.0.0](https://github.com/spryker/shopping-lists-rest-api) (Glue)
