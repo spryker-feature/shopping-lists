@@ -1,32 +1,32 @@
 {
-  "name": "spryker-feature/shopping-lists",
-  "description": "Shopping Lists [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3",
-    "spryker-shop/shopping-list-note-widget": "^1.1.0",
-    "spryker-shop/shopping-list-page": "^1.3.0",
-    "spryker-shop/shopping-list-widget": "^1.0.0",
-    "spryker/shopping-list": "^4.3.0",
-    "spryker/shopping-list-data-import": "^0.1.0",
-    "spryker/shopping-list-note": "^1.1.0",
-    "spryker/shopping-list-session": "^1.1.0",
-    "spryker/shopping-list-storage": "^1.6.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202107.x-dev"
+    "name": "spryker-feature/shopping-lists",
+    "description": "Shopping Lists [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker-shop/shopping-list-note-widget": "^1.1.0",
+        "spryker-shop/shopping-list-page": "^1.4.0",
+        "spryker-shop/shopping-list-widget": "^1.1.0",
+        "spryker/shopping-list": "^4.5.0",
+        "spryker/shopping-list-data-import": "^0.1.0",
+        "spryker/shopping-list-note": "^1.2.0",
+        "spryker/shopping-list-session": "^1.2.0",
+        "spryker/shopping-list-storage": "^1.6.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202108.x-dev"
+        }
+    },
+    "suggest": {
+        "spryker-feature/cart": "Recommended feature dependency.",
+        "spryker-feature/company-account": "Recommended feature dependency.",
+        "spryker-feature/customer-account-management": "Recommended feature dependency.",
+        "spryker-feature/prices": "Recommended feature dependency.",
+        "spryker-feature/product": "Recommended feature dependency.",
+        "spryker-feature/spryker-core": "Recommended feature dependency."
     }
-  },
-  "suggest": {
-    "spryker-feature/cart": "Recommended feature dependency.",
-    "spryker-feature/company-account": "Recommended feature dependency.",
-    "spryker-feature/customer-account-management": "Recommended feature dependency.",
-    "spryker-feature/prices": "Recommended feature dependency.",
-    "spryker-feature/product": "Recommended feature dependency.",
-    "spryker-feature/spryker-core": "Recommended feature dependency."
-  }
 }
