@@ -8,8 +8,8 @@
     "require": {
         "php": ">=8.0",
         "spryker-shop/shopping-list-note-widget": "^1.1.0",
-        "spryker-shop/shopping-list-page": "^1.7.0",
-        "spryker-shop/shopping-list-widget": "^1.4.0",
+        "spryker-shop/shopping-list-page": "^1.8.0",
+        "spryker-shop/shopping-list-widget": "^1.5.0",
         "spryker/shopping-list": "^4.10.0",
         "spryker/shopping-list-data-import": "^0.2.0",
         "spryker/shopping-list-note": "^1.2.0",
@@ -18,7 +18,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202211.x-dev"
+            "dev-master": "202212.x-dev"
         }
     },
     "suggest": {
