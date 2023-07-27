@@ -2,6 +2,8 @@
 
 The Shopping Lists feature allows customers to create and share multiple lists of products between company business units or single users.Shopping lists can be shared between users with different sets of permissions.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/shopping-list-and-wishlist/202307.0/base-shop/shopping-lists-feature-overview/shopping-lists-feature-overview.html)
+
 ## Installation
 
 ```
