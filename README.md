@@ -24,5 +24,5 @@ If you don't include the feature dependencies, make sure you use the respective 
 - [Shop.ShoppingListPageExtension](https://github.com/spryker-shop/shopping-list-page-extension) (Extension)
 - [ShoppingListProductOptionConnector ^1.4.0](https://github.com/spryker/shopping-list-product-option-connector) (Connector)
 - [ShoppingListSessionExtension](https://github.com/spryker/shopping-list-session-extension) (Extension)
-- [ShoppingListsRestApi ^1.2.0](https://github.com/spryker/shopping-lists-rest-api) (Legacy Glue)
+- [ShoppingListsRestApi ^1.3.0](https://github.com/spryker/shopping-lists-rest-api) (Legacy Glue)
 - [ShoppingListsRestApiExtension ^1.0.0](https://github.com/spryker/shopping-lists-rest-api-extension) (Extension)
